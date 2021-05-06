@@ -1,2 +1,2 @@
 # spotifyClient
-Minimalist Spotify client that highlights album art.
+Minimalist Spotify client that highlights album art and artist portraits.
